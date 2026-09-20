@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="250" viewBox="0 0 480 250" role="img" aria-label="Scouting report: 35 repositories, 436 commits, 9 pull requests, 20 followers. Language proficiency: JavaScript 52.1%, TypeScript 16.9%, Dart 13.8%, HTML 6.0%, Python 4.6%.">
+<style>
+ @keyframes fi{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+ @keyframes gw{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+ @keyframes pu{0%,100%{opacity:.35}50%{opacity:.9}}
+ .hd{font:700 15px "Segoe UI",sans-serif;fill:#e6edf3;animation:fi .5s ease-out both}
+ .sb{font:600 9px "Segoe UI",sans-serif;fill:#6366f1;letter-spacing:2.2px;animation:fi .5s .1s ease-out both}
+ .num{font:700 22px "Segoe UI",sans-serif;fill:#e6edf3}
+ .lbl{font:600 8px "Segoe UI",sans-serif;fill:#7d8590;letter-spacing:1.3px}
+ .ln{font:600 10px "Segoe UI",sans-serif;fill:#c9d1d9}
+ .pc{font:600 9px "Segoe UI",sans-serif;fill:#7d8590}
+ .bar{transform-origin:left center;animation:gw .9s cubic-bezier(.2,.8,.2,1) both}
+ .st{animation:fi .55s ease-out both}
+ .dot{animation:pu 2.4s ease-in-out infinite}
+</style>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#131a2e"/></linearGradient></defs>
+<rect width="480" height="250" rx="10" fill="url(#bg)" stroke="#232b3d"/>
+<rect x="0" y="0" width="3.5" height="250" rx="2" fill="#6366f1"/>
+<circle class="dot" cx="454" cy="26" r="3.5" fill="#6366f1"/>
+<text class="sb" x="26" y="26">SCOUTING REPORT</text>
+<text class="hd" x="26" y="47">Shubham Sahu · Striker No. 01</text>
+<line x1="26" y1="60" x2="454" y2="60" stroke="#232b3d"/>
+<g class="st" style="animation-delay:0.15s">
+<text class="num" x="26" y="90">35</text><text class="lbl" x="26" y="105">REPOS</text></g>
+<g class="st" style="animation-delay:0.23s">
+<text class="num" x="135" y="90">436</text><text class="lbl" x="135" y="105">COMMITS</text></g>
+<g class="st" style="animation-delay:0.31s">
+<text class="num" x="244" y="90">9</text><text class="lbl" x="244" y="105">PULL REQS</text></g>
+<g class="st" style="animation-delay:0.39s">
+<text class="num" x="353" y="90">20</text><text class="lbl" x="353" y="105">FOLLOWERS</text></g>
+<line x1="26" y1="122" x2="454" y2="122" stroke="#232b3d"/>
+<text class="sb" x="26" y="141">WEAPON PROFICIENCY</text>
+<text class="ln" x="26" y="162">JavaScript</text>
+<rect x="140" y="154" width="250" height="6" rx="3" fill="#1c2333"/>
+<rect class="bar" x="140" y="154" width="130" height="6" rx="3" fill="#f1e05a" style="animation-delay:0.40s"/>
+<text class="pc" x="400" y="162">52.1%</text>
+<text class="ln" x="26" y="180">TypeScript</text>
+<rect x="140" y="172" width="250" height="6" rx="3" fill="#1c2333"/>
+<rect class="bar" x="140" y="172" width="42" height="6" rx="3" fill="#3178c6" style="animation-delay:0.50s"/>
+<text class="pc" x="400" y="180">16.9%</text>
+<text class="ln" x="26" y="198">Dart</text>
+<rect x="140" y="190" width="250" height="6" rx="3" fill="#1c2333"/>
+<rect class="bar" x="140" y="190" width="34" height="6" rx="3" fill="#00B4AB" style="animation-delay:0.60s"/>
+<text class="pc" x="400" y="198">13.8%</text>
+<text class="ln" x="26" y="216">HTML</text>
+<rect x="140" y="208" width="250" height="6" rx="3" fill="#1c2333"/>
+<rect class="bar" x="140" y="208" width="15" height="6" rx="3" fill="#e34c26" style="animation-delay:0.70s"/>
+<text class="pc" x="400" y="216">6.0%</text>
+<text class="ln" x="26" y="234">Python</text>
+<rect x="140" y="226" width="250" height="6" rx="3" fill="#1c2333"/>
+<rect class="bar" x="140" y="226" width="12" height="6" rx="3" fill="#3572A5" style="animation-delay:0.80s"/>
+<text class="pc" x="400" y="234">4.6%</text>
+</svg>
