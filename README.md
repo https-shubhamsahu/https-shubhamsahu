@@ -1,3 +1,14 @@
+<!-- official-identity -->
+## Shubham Sahu — embedded systems, robotics & apps
+
+I’m Shubham Sahu, an Electronics & Computer Engineering student in Mumbai and co-founder of Aurigen. My official portfolio connects my embedded programming, robotics, and web/mobile application work to verified projects and deployments.
+
+- [Official portfolio](https://shubham-sahu.me/) · [Profile and social accounts](https://shubham-sahu.me/profile/)
+- [Embedded systems & programming](https://shubham-sahu.me/embedded-systems/) · [Robotics & automation](https://shubham-sahu.me/robotics/) · [Apps & websites](https://shubham-sahu.me/apps/)
+- [NO SUS / Nosus](https://shubham-sahu.me/projects/no-sus/) · [Niva smart insole](https://shubham-sahu.me/projects/niva/) · [Aurigen](https://shubham-sahu.me/projects/aurigen/) · [NO SUS Canary](https://shubham-sahu.me/projects/nosus-canary/)
+
+<!-- /official-identity -->
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/https-shubhamsahu/https-shubhamsahu/main/assets/striker-run.png" width="150" alt="Shadow Striker, a chibi football striker in a black-and-indigo kit, running with a ball at his feet">
@@ -6,7 +17,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=6366F1&center=true&vCenter=true&width=620&lines=Shubham+Sahu+%E2%80%94+Striker+No.+01;Electronics+%26+Computer+Engineering+%40+TSEC;Agentic+AI+%C2%B7+Robotics+%C2%B7+Embedded+Systems;Devour+the+problem.+Ship+the+goal." alt="Shubham Sahu — Striker No. 01. Electronics and Computer Engineering at TSEC. Agentic AI, Robotics, Embedded Systems. Devour the problem, ship the goal.">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=githubpages&logoColor=6366F1)](https://https-shubhamsahu.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=githubpages&logoColor=6366F1)](https://shubham-sahu.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=6366F1)](https://linkedin.com/in/shubhamsahu9372)
 [![X](https://img.shields.io/badge/@isagi0011-0F172A?style=for-the-badge&logo=x&logoColor=6366F1)](https://x.com/isagi0011)
 [![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=6366F1)](mailto:shubhamsahu9372@gmail.com)
@@ -18,7 +29,7 @@
 
 I'm a second-year **Electronics & Computer Engineering** student at Thakur Shyamnarayan Engineering College, Mumbai. I build things that have to survive contact with the real world — a hybrid roll/fly rover for Smart India Hackathon, an on-chain canary-trap system, a recruitment stack that runs entirely offline on Ollama.
 
-Most of my work sits where **agentic AI meets hardware**: if it only works in a notebook, I don't think it's finished. Currently Product Development Head at **RAC-TSEC**, embedded coding intern at **Fostride**, and campus ambassador for **E-Cell, IIT Bombay**.
+Most of my work sits where **agentic AI meets hardware**: if it only works in a notebook, I don't think it's finished. Currently Product Development Head at **RAC-TSEC**, co-founder of **Aurigen**, with previous experience at **Fostride** and **E-Cell, IIT Bombay**.
 
 <table>
 <tr>
