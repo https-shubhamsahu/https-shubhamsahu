@@ -149,3 +149,14 @@ Rovers, agents, embedded systems, or a hackathon team that needs a striker.
 <sub><i>Mascot: <b>Shadow Striker</b> — original sprite work, animated frame-by-frame.</i></sub>
 
 </div>
+
+
+---
+
+## Build note — 6 October 2026
+
+[NO SUS Canary](https://github.com/https-shubhamsahu/nosus-canary) gives readers distinct copies of a note and matches leaked text against those copies. An important distinction: a match identifies a copy, not the person who shared it. When too little distinguishing text survives, the documented matcher names nobody.
+
+A useful result should explain what matched, what evidence is missing, and what the result cannot prove. I’m interested in how other builders communicate inconclusive results without making the interface confusing.
+
+[Read the implementation and its limits](https://github.com/https-shubhamsahu/nosus-canary#more) · [Join the conversation on X](https://x.com/isagi0011/status/2107338612568420439)
