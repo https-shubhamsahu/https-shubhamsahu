@@ -160,3 +160,14 @@ Rovers, agents, embedded systems, or a hackathon team that needs a striker.
 A useful result should explain what matched, what evidence is missing, and what the result cannot prove. I’m interested in how other builders communicate inconclusive results without making the interface confusing.
 
 [Read the implementation and its limits](https://github.com/https-shubhamsahu/nosus-canary#more) · [Join the conversation on X](https://x.com/isagi0011/status/2107338612568420439)
+
+
+---
+
+## Build note — 7 October 2026
+
+The [Aurigen C3 Rover](https://github.com/https-shubhamsahu/aurigen-c3-rover) documentation includes a separate servo diagnostic for its ESP32-C3 and four SG90 servos. Before debugging a gait, keep the robot lifted and test each output individually with a known-good servo. Then calibrate the servo centers and directions for the physical assembly.
+
+The engineering idea is simple: isolate the actuator and signal path before adding the full motion sequence. A small diagnostic makes it easier to distinguish a wiring or connector problem from application behavior.
+
+[Wiring and diagnostic instructions](https://github.com/https-shubhamsahu/aurigen-c3-rover#servo-diagnostic)
