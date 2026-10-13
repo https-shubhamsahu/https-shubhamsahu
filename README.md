@@ -50,6 +50,23 @@ Most of my work sits where **agentic AI meets hardware**: if it only works in a 
 
 ---
 
+## Building now: NO SUS
+
+<table>
+<tr>
+<td>
+
+**[NO SUS](https://nosus.foo)**: your files on every screen. Send them so they can't leak: one open, watermarked links, or traceable copies.
+
+[![nosus.foo](https://img.shields.io/badge/nosus.foo-0F172A?style=for-the-badge&logoColor=6366F1)](https://nosus.foo)
+[![Get the app](https://img.shields.io/badge/Get_the_app-0F172A?style=for-the-badge&logo=android&logoColor=6366F1)](https://github.com/https-shubhamsahu/nosus-app)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## ⚽ Match Record
 
 Real repos, ranked by how much of me is in them.
