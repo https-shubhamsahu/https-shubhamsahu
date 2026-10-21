@@ -1,11 +1,11 @@
 <!-- official-identity -->
-## Shubham Sahu — embedded systems, robotics & apps
+## Shubham Sahu, founder of NO SUS
 
-I’m Shubham Sahu, an Electronics & Computer Engineering student in Mumbai and co-founder of Aurigen. My official portfolio connects my embedded programming, robotics, and web/mobile application work to verified projects and deployments.
+I’m Shubham Sahu, founder of NO SUS and co-founder of Aurigen. I study Electronics & Computer Engineering at TSEC, Mumbai. My official portfolio connects my embedded programming, robotics, and web/mobile application work to verified projects and deployments.
 
 - [Official portfolio](https://shubham-sahu.me/) · [Profile and social accounts](https://shubham-sahu.me/profile/)
 - [Embedded systems & programming](https://shubham-sahu.me/embedded-systems/) · [Robotics & automation](https://shubham-sahu.me/robotics/) · [Apps & websites](https://shubham-sahu.me/apps/)
-- [NO SUS / Nosus](https://shubham-sahu.me/projects/no-sus/) · [Niva smart insole](https://shubham-sahu.me/projects/niva/) · [Aurigen](https://shubham-sahu.me/projects/aurigen/) · [NO SUS Canary](https://shubham-sahu.me/projects/nosus-canary/)
+- [NO SUS](https://shubham-sahu.me/projects/no-sus/) · [Niva smart insole](https://shubham-sahu.me/projects/niva/) · [Aurigen](https://shubham-sahu.me/projects/aurigen/) · [NO SUS Canary](https://shubham-sahu.me/projects/nosus-canary/)
 
 <!-- /official-identity -->
 
