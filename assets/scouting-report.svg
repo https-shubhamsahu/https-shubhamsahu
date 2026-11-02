@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="250" viewBox="0 0 480 250" role="img" aria-label="Scouting report: 35 repositories, 569 commits, 22 pull requests, 23 followers. Language proficiency: HTML 45.5%, JavaScript 26.2%, TypeScript 12.3%, Dart 6.4%, Python 5.6%.">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="250" viewBox="0 0 480 250" role="img" aria-label="Scouting report: 35 repositories, 590 commits, 22 pull requests, 23 followers. Language proficiency: HTML 47.8%, JavaScript 25.3%, TypeScript 11.2%, Dart 6.1%, Python 5.6%.">
 <style>
  @keyframes fi{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
  @keyframes gw{from{transform:scaleX(0)}to{transform:scaleX(1)}}
@@ -23,7 +23,7 @@
 <g class="st" style="animation-delay:0.15s">
 <text class="num" x="26" y="90">35</text><text class="lbl" x="26" y="105">REPOS</text></g>
 <g class="st" style="animation-delay:0.23s">
-<text class="num" x="135" y="90">569</text><text class="lbl" x="135" y="105">COMMITS</text></g>
+<text class="num" x="135" y="90">590</text><text class="lbl" x="135" y="105">COMMITS</text></g>
 <g class="st" style="animation-delay:0.31s">
 <text class="num" x="244" y="90">22</text><text class="lbl" x="244" y="105">PULL REQS</text></g>
 <g class="st" style="animation-delay:0.39s">
@@ -32,20 +32,20 @@
 <text class="sb" x="26" y="141">WEAPON PROFICIENCY</text>
 <text class="ln" x="26" y="162">HTML</text>
 <rect x="140" y="154" width="250" height="6" rx="3" fill="#1c2333"/>
-<rect class="bar" x="140" y="154" width="114" height="6" rx="3" fill="#e34c26" style="animation-delay:0.40s"/>
-<text class="pc" x="400" y="162">45.5%</text>
+<rect class="bar" x="140" y="154" width="120" height="6" rx="3" fill="#e34c26" style="animation-delay:0.40s"/>
+<text class="pc" x="400" y="162">47.8%</text>
 <text class="ln" x="26" y="180">JavaScript</text>
 <rect x="140" y="172" width="250" height="6" rx="3" fill="#1c2333"/>
-<rect class="bar" x="140" y="172" width="66" height="6" rx="3" fill="#f1e05a" style="animation-delay:0.50s"/>
-<text class="pc" x="400" y="180">26.2%</text>
+<rect class="bar" x="140" y="172" width="63" height="6" rx="3" fill="#f1e05a" style="animation-delay:0.50s"/>
+<text class="pc" x="400" y="180">25.3%</text>
 <text class="ln" x="26" y="198">TypeScript</text>
 <rect x="140" y="190" width="250" height="6" rx="3" fill="#1c2333"/>
-<rect class="bar" x="140" y="190" width="31" height="6" rx="3" fill="#3178c6" style="animation-delay:0.60s"/>
-<text class="pc" x="400" y="198">12.3%</text>
+<rect class="bar" x="140" y="190" width="28" height="6" rx="3" fill="#3178c6" style="animation-delay:0.60s"/>
+<text class="pc" x="400" y="198">11.2%</text>
 <text class="ln" x="26" y="216">Dart</text>
 <rect x="140" y="208" width="250" height="6" rx="3" fill="#1c2333"/>
-<rect class="bar" x="140" y="208" width="16" height="6" rx="3" fill="#00B4AB" style="animation-delay:0.70s"/>
-<text class="pc" x="400" y="216">6.4%</text>
+<rect class="bar" x="140" y="208" width="15" height="6" rx="3" fill="#00B4AB" style="animation-delay:0.70s"/>
+<text class="pc" x="400" y="216">6.1%</text>
 <text class="ln" x="26" y="234">Python</text>
 <rect x="140" y="226" width="250" height="6" rx="3" fill="#1c2333"/>
 <rect class="bar" x="140" y="226" width="14" height="6" rx="3" fill="#3572A5" style="animation-delay:0.80s"/>
