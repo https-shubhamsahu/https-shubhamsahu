@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="t d">
+<title id="t">Penalty shootout</title>
+<desc id="d">Penalty board. No shots yet. Demo: a shot to the left beats a keeper diving right.</desc>
+<style>
+  .lbl { font: 600 17px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #8B93A7; letter-spacing: 3px; }
+  .who { font: 800 32px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #F2F4F8; }
+  .sub { font: 400 21px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #8B93A7; }
+  .res { font: 900 60px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; letter-spacing: 6px; }
+  .num { font: 800 36px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #F2F4F8; }
+  .row { font: 600 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #F2F4F8; }
+  .zone { font: 700 16px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #3A4463; letter-spacing: 3px; }
+  .ball, .keeper, .res, .net { animation-duration: 5s; animation-iteration-count: infinite; animation-timing-function: linear; }
+  .ball { transform-box: fill-box; transform-origin: center; animation-name: shot; }
+  .keeper { transform-box: view-box; transform-origin: 370px 225px; transform: translate(81px, -15px) rotate(60deg); animation-name: dive; animation-timing-function: ease-out; }
+  .res { animation-name: res; }
+  .net { transform-box: fill-box; transform-origin: 20% 40%; animation-name: bulge; }
+  @keyframes shot { 0%, 15% { transform: translate(150px, 250px) scale(2.0); opacity: 1; } 17.25% { transform: translate(98.7px, 191.4px) scale(1.766); opacity: 1; } 19.50% { transform: translate(62.2px, 140.6px) scale(1.562); opacity: 1; } 21.75% { transform: translate(37.2px, 97.7px) scale(1.391); opacity: 1; } 24.00% { transform: translate(20.6px, 62.5px) scale(1.250); opacity: 1; } 26.25% { transform: translate(10.2px, 35.2px) scale(1.141); opacity: 1; } 28.50% { transform: translate(4.1px, 15.6px) scale(1.062); opacity: 1; } 30.75% { transform: translate(1.0px, 3.9px) scale(1.016); opacity: 1; } 33.00% { transform: translate(0.0px, 0.0px) scale(1.000); opacity: 1; }
+    88% { transform: translate(0px, 0px) scale(1); opacity: 1; } 92% { transform: translate(0px, 0px) scale(1); opacity: 0; }
+    94% { transform: translate(150px, 250px) scale(2.0); opacity: 0; } 97%, 100% { transform: translate(150px, 250px) scale(2.0); opacity: 1; } }
+  @keyframes dive { 0%, 17% { transform: translate(0px, 0px) rotate(0deg); } 31%, 88% { transform: translate(81px, -15px) rotate(60deg); }
+    96%, 100% { transform: translate(0px, 0px) rotate(0deg); } }
+  @keyframes res { 0%, 33.9% { opacity: 0; } 34%, 88% { opacity: 1; } 92%, 100% { opacity: 0; } }
+  @keyframes bulge { 0%, 33% { transform: scale(1); } 35% { transform: scale(1.03); } 41%, 100% { transform: scale(1); } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect width="1200" height="480" rx="24" fill="#090C14"/>
+<path d="M60 300H680M150 300L118 360H622L590 300" stroke="#1A2133" stroke-width="2" fill="none"/>
+<path class="net" d="M150 70V300M180 70V300M210 70V300M240 70V300M270 70V300M300 70V300M330 70V300M360 70V300M390 70V300M420 70V300M450 70V300M480 70V300M510 70V300M540 70V300M570 70V300M120 96H620M120 122H620M120 148H620M120 174H620M120 200H620M120 226H620M120 252H620M120 278H620" stroke="#1F2840" stroke-width="2" fill="none"/>
+<text class="zone" x="220" y="338" text-anchor="middle">LEFT</text>
+<text class="zone" x="370" y="338" text-anchor="middle">CENTER</text>
+<text class="zone" x="520" y="338" text-anchor="middle">RIGHT</text>
+<path d="M120 300V70H620V300" stroke="#E8ECF4" stroke-width="8" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<g class="ball"><circle cx="220" cy="170" r="12" fill="#F2F4F8" stroke="#0B0F18" stroke-width="1.5"/><circle cx="220" cy="170" r="4.5" fill="#0B0F18"/></g>
+<g class="keeper">
+  <rect x="356" y="262" width="11" height="38" rx="5" fill="#2D3352"/><rect x="373" y="262" width="11" height="38" rx="5" fill="#2D3352"/>
+  <rect x="350" y="200" width="40" height="68" rx="14" fill="#6366F1"/>
+  <path d="M356 210L340 160M384 210L400 160" stroke="#6366F1" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="338" cy="152" r="11" fill="#E8ECF4"/><circle cx="402" cy="152" r="11" fill="#E8ECF4"/>
+  <circle cx="370" cy="184" r="16" fill="#2D3352"/>
+</g>
+<text class="lbl" x="760" y="76">LAST SHOT</text>
+<text class="who" x="760" y="116">No shots yet</text>
+<text class="sub" x="760" y="150">Demo: shot left, keeper went right</text>
+<text class="res" x="756" y="224" style="fill:#6366F1">GOAL</text>
+<path d="M760 252H1150" stroke="#1A2133" stroke-width="2"/>
+<text class="num" x="760" y="300">0</text><text class="lbl" x="760" y="326">SHOTS</text>
+<text class="num" x="900" y="300">0</text><text class="lbl" x="900" y="326">GOALS</text>
+<text class="num" x="1040" y="300">0</text><text class="lbl" x="1040" y="326">SAVES</text>
+<text class="lbl" x="760" y="362" style="font-size:15px">TOP SCORERS</text>
+<text class="row" x="760" y="388" style="fill:#8B93A7">Nobody has scored yet</text>
+</svg>

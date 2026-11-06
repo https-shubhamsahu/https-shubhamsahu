@@ -1,3 +1,15 @@
+<div align="center">
+
+<img src="assets/readme/hero.svg" width="100%" alt="Shubham Sahu, Striker No. 01 from Mumbai. Founder of NO SUS and co-founder of Aurigen. A chibi striker watches a shot fly into the top corner and the scoreboard reads NO SUS 1, LEAKS 0.">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=githubpages&logoColor=6366F1)](https://shubham-sahu.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=6366F1)](https://linkedin.com/in/shubhamsahu9372)
+[![X](https://img.shields.io/badge/@isagi0011-0F172A?style=for-the-badge&logo=x&logoColor=6366F1)](https://x.com/isagi0011)
+[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjNjM2NkYxJyBzdHJva2Utd2lkdGg9JzInIHN0cm9rZS1saW5lam9pbj0ncm91bmQnPjxyZWN0IHg9JzIuNScgeT0nNC41JyB3aWR0aD0nMTknIGhlaWdodD0nMTUnIHJ4PScyJy8+PHBhdGggZD0nTTMuNSA2LjVsOC41IDYuNSA4LjUtNi41Jy8+PC9zdmc+)](mailto:shubhamsahu@nosus.foo)
+![Profile views](https://komarev.com/ghpvc/?username=https-shubhamsahu&style=for-the-badge&color=6366F1&label=SCOUTED)
+
+</div>
+
 <!-- official-identity -->
 ## Shubham Sahu, founder of NO SUS
 
@@ -9,138 +21,95 @@ I’m Shubham Sahu, founder of NO SUS and co-founder of Aurigen. I study Electro
 
 <!-- /official-identity -->
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/https-shubhamsahu/https-shubhamsahu/main/assets/striker-run.png" width="150" alt="Shadow Striker, a chibi football striker in a black-and-indigo kit, running with a ball at his feet">
-
-# BLUE LOCK: BUILD ARC
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=6366F1&center=true&vCenter=true&width=620&lines=Shubham+Sahu+%E2%80%94+Striker+No.+01;Electronics+%26+Computer+Engineering+%40+TSEC;Agentic+AI+%C2%B7+Robotics+%C2%B7+Embedded+Systems;Devour+the+problem.+Ship+the+goal." alt="Shubham Sahu — Striker No. 01. Electronics and Computer Engineering at TSEC. Agentic AI, Robotics, Embedded Systems. Devour the problem, ship the goal.">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=githubpages&logoColor=6366F1)](https://shubham-sahu.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=6366F1)](https://linkedin.com/in/shubhamsahu9372)
-[![X](https://img.shields.io/badge/@isagi0011-0F172A?style=for-the-badge&logo=x&logoColor=6366F1)](https://x.com/isagi0011)
-[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=6366F1)](mailto:shubhamsahu9372@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=https-shubhamsahu&style=for-the-badge&color=6366F1&label=SCOUTED)
-
-</div>
-
----
-
-I'm a second-year **Electronics & Computer Engineering** student at Thakur Shyamnarayan Engineering College, Mumbai. I build things that have to survive contact with the real world — a hybrid roll/fly rover for Smart India Hackathon, an on-chain canary-trap system, a recruitment stack that runs entirely offline on Ollama.
-
-Most of my work sits where **agentic AI meets hardware**: if it only works in a notebook, I don't think it's finished. Currently Product Development Head at **RAC-TSEC**, co-founder of **Aurigen**, with previous experience at **Fostride** and **E-Cell, IIT Bombay**.
-
-<table>
-<tr>
-<td width="120" align="center">
-<img src="https://raw.githubusercontent.com/https-shubhamsahu/https-shubhamsahu/main/assets/striker-pose8.png" width="100" alt="Shadow Striker standing with a ball, thinking">
-</td>
-<td>
-
-> **"I don't want to be a cog in someone else's machine. I want to be the one who scores."**
->
-> Blue Lock is about 300 strikers locked in a facility, fighting to become the one who wins the World Cup. Hackathons are the same deal with worse coffee. This page is the match record.
->
-> (Yes, I'm [@isagi0011](https://x.com/isagi0011). The commitment predates this README.)
-
-</td>
-</tr>
-</table>
-
----
+Most of what I build has a board in it: an ESP32 insole that scores gait with rules you can read, a four-servo walking rover, and a browser IDE that flashes an ESP32 over Web Serial. Before NO SUS I was an embedded coding intern at Fostride, an autonomous robotics intern at MakerWorks Lab, and Head of Product Development at TSEC's Robotics & Automation Club. I graduate in 2028.
 
 ## Building now: NO SUS
-
-<table>
-<tr>
-<td>
 
 **[NO SUS](https://nosus.foo)**: your files on every screen. Send them so they can't leak: one open, watermarked links, or traceable copies.
 
 [![nosus.foo](https://img.shields.io/badge/nosus.foo-0F172A?style=for-the-badge&logoColor=6366F1)](https://nosus.foo)
 [![Get the app](https://img.shields.io/badge/Get_the_app-0F172A?style=for-the-badge&logo=android&logoColor=6366F1)](https://github.com/https-shubhamsahu/nosus-app)
 
-</td>
-</tr>
-</table>
+## Match record
 
----
+<img src="assets/readme/trophies.svg" width="100%" alt="Winner, Lovable × Anthropic Buildathon, March 2026: CareProof. 2nd place, Monad Blitz Mumbai V4, September 2026: NO SUS Canary. Top 10, M-Indicator AI Hackathon: M-Indicator 2.0. Showcased, Automation Expo, July 2026: Niva. Presented, India Innovates 2026, New Delhi.">
 
-## ⚽ Match Record
+## The squad
 
-Real repos, ranked by how much of me is in them.
-
-| # | Project | The play | Stack |
-|:-:|---|---|---|
-| **01** | **[SURANG-SUTRA](https://github.com/https-shubhamsahu/surang-sutra-simulation)** | Hybrid roll/fly rover for **SIH 2026** — interactive 3D mission sim with deterministic replay | `JavaScript` `Three.js` |
-| **02** | **[Aurigen C3 Rover](https://github.com/https-shubhamsahu/aurigen-c3-rover)** | Command-and-control firmware for an AI robotics rover · [site](https://github.com/https-shubhamsahu/aurigen-web) | `C++` `Embedded` |
-| **03** | **[NO SUS · Canary](https://github.com/https-shubhamsahu/nosus-monad)** | Cryptographic **and linguistic** canary trapping on Monad Testnet — catches leaks by watermarking language itself | `Dart` `Solidity` |
-| **04** | **[ResumeDB](https://github.com/https-shubhamsahu/resumedb)** | End-to-end recruitment: semantic CV search, automated assessments, live AI interviews with behavioral analysis. **100% local via Ollama** | `TypeScript` `Ollama` |
-| **05** | **[Sentri](https://github.com/https-shubhamsahu/sentri)** | Monitoring system with a [custom hardware layer](https://github.com/https-shubhamsahu/sentri-hardware) | `TypeScript` `C` |
+| Project | What it does | Stack |
+|---|---|---|
+| **[Niva](https://github.com/https-shubhamsahu/niva)** | Smart insole: an ESP32 reads plantar pressure, impact and IMU data, and the software scores gait with explicit biomechanics rules | `ESP32` `Python` |
+| **[Aurigen C3 Rover](https://github.com/https-shubhamsahu/aurigen-c3-rover)** | ESP32-C3 walking robot with four SG90 servos, OLED eyes and BLE control · [site](https://github.com/https-shubhamsahu/aurigen-web) | `C++` `ESP32-C3` |
+| **[Aurigen Blocks](https://github.com/https-shubhamsahu/aurigen_apps_block_programming)** | Program an ESP32 from your browser: Blockly to C++, cloud compile, flash over Web Serial. You don't install a toolchain | `JavaScript` `arduino-cli` |
+| **[SURANG-SUTRA](https://github.com/https-shubhamsahu/surang-sutra-vishwakarma)** | Roll/fly mine-rescue scout that lays its own relay trail. Vishwakarma Awards 2026-27, Stage 2 | `CAD` `Python` |
+| **[NO SUS Canary](https://github.com/https-shubhamsahu/nosus-canary)** | Every reader gets their own copy, and every seal and open is a Solana transaction. 2nd at Monad Blitz Mumbai V4 | `Dart` `Solana` |
+| **[POISONKEY](https://github.com/https-shubhamsahu/POISONKEY)** | Access credentials that slash the holder's bond if they leak, on Stellar + Soroban | `TypeScript` `Soroban` |
+| **[CareProof](https://github.com/https-shubhamsahu/care-proof)** | Turns unpaid caregiving into a CareScore and a portfolio that lenders and employers can use. Won the Lovable × Anthropic Buildathon | `TypeScript` |
+| **[crypt.ml](https://github.com/https-shubhamsahu/crypt.ml)** | Local-first anti-money-laundering: five agents, XGBoost with SHAP, transaction graph analysis | `Python` `XGBoost` |
+| **[Lynk](https://github.com/https-shubhamsahu/lynk)** | Finds grants and programs, checks whether you can actually apply, then drafts from verified facts | `Python` |
+| **[M-Indicator 2.0](https://github.com/https-shubhamsahu/M-indicator-2.0)** | Mumbai trains, metro and buses in one mobile-first web app. Top 10 at the M-Indicator AI Hackathon | `HTML` `JavaScript` |
 
 <details>
-<summary><b>🔓 Unlock the reserve squad</b> — more projects</summary>
+<summary><b>Reserve bench</b></summary>
 
 <br>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/https-shubhamsahu/https-shubhamsahu/main/assets/striker-cheer.png" width="90" alt="Shadow Striker celebrating">
-</div>
-
 | Project | What it is |
 |---|---|
+| [**ResumeDB**](https://github.com/https-shubhamsahu/resumedb) | Recruitment stack with semantic CV search and live AI interviews, running fully on Ollama |
+| [**Sentri**](https://github.com/https-shubhamsahu/sentri) | Monitoring system with a [custom hardware layer](https://github.com/https-shubhamsahu/sentri-hardware) |
+| [**VibeSplit**](https://github.com/https-shubhamsahu/VibeSplit) | Group expense splitting for trips and canteen runs |
 | [**CertSecure**](https://github.com/https-shubhamsahu/CertSecure) | Certificate verification and anti-forgery tooling |
-| [**POISONKEY**](https://github.com/https-shubhamsahu/POISONKEY) | Security research project |
-| [**Niva**](https://github.com/https-shubhamsahu/niva) | TypeScript product build |
-| [**Lynk**](https://github.com/https-shubhamsahu/lynk) | Python service layer |
-| [**M-Indicator 2.0**](https://github.com/https-shubhamsahu/M-indicator-2.0) | Rebuild of Mumbai's transit companion app |
 | [**Next Station**](https://github.com/https-shubhamsahu/next-station) | Transit routing experiment |
-| [**HackHub**](https://github.com/https-shubhamsahu/HackHub) | Hackathon discovery platform |
-| [**crypt.ml**](https://github.com/https-shubhamsahu/crypt.ml) | ML on encrypted data |
 
 </details>
 
----
+## Take a penalty
 
-## 🧤 Weapons
+<img src="assets/readme/penalty.svg" width="100%" alt="Penalty board: the last shot, the keeper's dive, total goals and saves, and the top scorers.">
 
-<div align="center">
+Pick a corner, then hit Submit on the issue that opens. A GitHub Action rolls my keeper, replies on your issue and updates this board. You get one counted shot a day (UTC).
 
-**Core**
+[![Shoot left](https://img.shields.io/badge/Shoot_left-6366F1?style=for-the-badge)](https://github.com/https-shubhamsahu/https-shubhamsahu/issues/new?title=penalty%7Cleft&body=Hit%20Submit.%20My%20keeper%20dives%20in%20a%20minute%20or%20two%20and%20you%27ll%20get%20the%20result%20right%20here.)
+[![Shoot center](https://img.shields.io/badge/Shoot_center-6366F1?style=for-the-badge)](https://github.com/https-shubhamsahu/https-shubhamsahu/issues/new?title=penalty%7Ccenter&body=Hit%20Submit.%20My%20keeper%20dives%20in%20a%20minute%20or%20two%20and%20you%27ll%20get%20the%20result%20right%20here.)
+[![Shoot right](https://img.shields.io/badge/Shoot_right-6366F1?style=for-the-badge)](https://github.com/https-shubhamsahu/https-shubhamsahu/issues/new?title=penalty%7Cright&body=Hit%20Submit.%20My%20keeper%20dives%20in%20a%20minute%20or%20two%20and%20you%27ll%20get%20the%20result%20right%20here.)
 
-![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=6366F1)
-![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=6366F1)
-![C++](https://img.shields.io/badge/C++-0F172A?style=for-the-badge&logo=cplusplus&logoColor=6366F1)
-![Dart](https://img.shields.io/badge/Dart-0F172A?style=for-the-badge&logo=dart&logoColor=6366F1)
+<!-- penalty:start -->
+**0 goals and 0 saves from 0 shots.**
+<!-- penalty:end -->
 
-**AI & Agents**
+## Loadout
 
-![Ollama](https://img.shields.io/badge/Ollama-0F172A?style=for-the-badge&logo=ollama&logoColor=6366F1)
-![LangChain](https://img.shields.io/badge/CrewAI-0F172A?style=for-the-badge&logo=langchain&logoColor=6366F1)
-![n8n](https://img.shields.io/badge/n8n-0F172A?style=for-the-badge&logo=n8n&logoColor=6366F1)
-![Gemini](https://img.shields.io/badge/Gemini-0F172A?style=for-the-badge&logo=googlegemini&logoColor=6366F1)
+<img src="assets/readme/loadout.svg" width="100%" alt="Hardware: ESP32, Arduino, C / C++, CAD. Apps: Flutter + Dart, TypeScript, React. Backend + AI: Python, Supabase, Cloudflare, Ollama. Video in code: HyperFrames, GSAP.">
 
-**Hardware & Web**
-
-![Arduino](https://img.shields.io/badge/ESP32_%2F_Arduino-0F172A?style=for-the-badge&logo=arduino&logoColor=6366F1)
-![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=6366F1)
-![Flutter](https://img.shields.io/badge/Flutter-0F172A?style=for-the-badge&logo=flutter&logoColor=6366F1)
-![Solidity](https://img.shields.io/badge/Solidity-0F172A?style=for-the-badge&logo=solidity&logoColor=6366F1)
-
-</div>
-
----
-
-## 📊 Scouting Report
+## Scouting report
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/https-shubhamsahu/https-shubhamsahu/main/assets/scouting-report.svg" width="480" alt="Scouting report: 35 repositories, 436 commits, 9 pull requests, 20 followers. Language proficiency: JavaScript 52.1%, TypeScript 16.9%, Dart 13.8%, HTML 6.0%, Python 4.6%.">
+<img src="assets/scouting-report.svg" width="480" alt="Scouting report: public repositories, commits, pull requests, followers and top languages, rebuilt every Monday by a GitHub Action.">
 
-<sub>Self-hosted and animated — no third-party widget to rate-limit or 503.</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/https-shubhamsahu/https-shubhamsahu/output/snake-dark.svg">
+  <img width="100%" alt="A snake eating this year's contribution graph, one green square at a time." src="https://raw.githubusercontent.com/https-shubhamsahu/https-shubhamsahu/output/snake.svg">
+</picture>
 
 </div>
+
+## Build note: 6 October 2026
+
+[NO SUS Canary](https://github.com/https-shubhamsahu/nosus-canary) gives readers distinct copies of a note and matches leaked text against those copies. An important distinction: a match identifies a copy, not the person who shared it. When too little distinguishing text survives, the documented matcher names nobody.
+
+A useful result should explain what matched, what evidence is missing, and what the result cannot prove. I’m interested in how other builders communicate inconclusive results without making the interface confusing.
+
+[Read the implementation and its limits](https://github.com/https-shubhamsahu/nosus-canary#more) · [Join the conversation on X](https://x.com/isagi0011/status/2107338612568420439)
+
+## Build note: 7 October 2026
+
+The [Aurigen C3 Rover](https://github.com/https-shubhamsahu/aurigen-c3-rover) documentation includes a separate servo diagnostic for its ESP32-C3 and four SG90 servos. Before debugging a gait, keep the robot lifted and test each output individually with a known-good servo. Then calibrate the servo centers and directions for the physical assembly.
+
+The engineering idea is simple: isolate the actuator and signal path before adding the full motion sequence. A small diagnostic makes it easier to distinguish a wiring or connector problem from application behavior.
+
+[Wiring and diagnostic instructions](https://github.com/https-shubhamsahu/aurigen-c3-rover#servo-diagnostic)
 
 ---
 
@@ -149,42 +118,20 @@ Real repos, ranked by how much of me is in them.
 <table>
 <tr>
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/https-shubhamsahu/https-shubhamsahu/main/assets/striker-hold.png" width="120" alt="Shadow Striker holding a football, ready to play">
+<img src="assets/readme/striker-hold.png" width="120" alt="Shadow Striker holding a football, ready to play">
 </td>
 <td>
 
 ### Got a problem worth locking in for?
 
-Rovers, agents, embedded systems, or a hackathon team that needs a striker.
+Send me the rover, the firmware bug, or the hackathon team that's short a striker.
 
-[![Email me](https://img.shields.io/badge/Start_the_match-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamsahu9372@gmail.com)
+[![Email me](https://img.shields.io/badge/Start_the_match-6366F1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjRkZGRkZGJyBzdHJva2Utd2lkdGg9JzInIHN0cm9rZS1saW5lam9pbj0ncm91bmQnPjxyZWN0IHg9JzIuNScgeT0nNC41JyB3aWR0aD0nMTknIGhlaWdodD0nMTUnIHJ4PScyJy8+PHBhdGggZD0nTTMuNSA2LjVsOC41IDYuNSA4LjUtNi41Jy8+PC9zdmc+)](mailto:shubhamsahu@nosus.foo)
 
 </td>
 </tr>
 </table>
 
-<sub><i>Mascot: <b>Shadow Striker</b> — original sprite work, animated frame-by-frame.</i></sub>
+<sub><i>Mascot: <b>Shadow Striker</b>, original sprite work.</i></sub>
 
 </div>
-
-
----
-
-## Build note — 6 October 2026
-
-[NO SUS Canary](https://github.com/https-shubhamsahu/nosus-canary) gives readers distinct copies of a note and matches leaked text against those copies. An important distinction: a match identifies a copy, not the person who shared it. When too little distinguishing text survives, the documented matcher names nobody.
-
-A useful result should explain what matched, what evidence is missing, and what the result cannot prove. I’m interested in how other builders communicate inconclusive results without making the interface confusing.
-
-[Read the implementation and its limits](https://github.com/https-shubhamsahu/nosus-canary#more) · [Join the conversation on X](https://x.com/isagi0011/status/2107338612568420439)
-
-
----
-
-## Build note — 7 October 2026
-
-The [Aurigen C3 Rover](https://github.com/https-shubhamsahu/aurigen-c3-rover) documentation includes a separate servo diagnostic for its ESP32-C3 and four SG90 servos. Before debugging a gait, keep the robot lifted and test each output individually with a known-good servo. Then calibrate the servo centers and directions for the physical assembly.
-
-The engineering idea is simple: isolate the actuator and signal path before adding the full motion sequence. A small diagnostic makes it easier to distinguish a wiring or connector problem from application behavior.
-
-[Wiring and diagnostic instructions](https://github.com/https-shubhamsahu/aurigen-c3-rover#servo-diagnostic)
