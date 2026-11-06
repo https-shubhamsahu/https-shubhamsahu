@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="408" viewBox="0 0 1200 408" role="img" aria-labelledby="t d">
 <title id="t">Match record</title>
-<desc id="d">Winner, Lovable × Anthropic Buildathon, Mar 2026: CareProof: verified credit for unpaid caregiving; 2Nd Place, Monad Blitz Mumbai V4, Sep 2026: NO SUS Canary: leak tracing with Solana receipts; Top 10, M-Indicator AI Hackathon: M-Indicator 2.0: Mumbai trains, metro and buses in one app; Showcased, Automation Expo, Jul 2026: Niva: smart insole with explainable gait analytics; Presented, India Innovates, 2026: New Delhi</desc>
+<desc id="d">Winner, Lovable × Anthropic Buildathon, Mar 2026: CareProof: verified credit for unpaid caregiving; 2Nd Place, Monad Blitz Mumbai V4, Sep 2026: NO SUS Canary: leak tracing with Solana receipts; Top 10, M-Indicator AI Hackathon: M-Indicator 2.0: a mobile-first redesign for Mumbai commuters; Showcased, Automation Expo, Jul 2026: Niva: smart insole with explainable gait analytics; Presented, India Innovates, 2026: New Delhi</desc>
 <style>
   .date { font: 600 18px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #8B93A7; letter-spacing: 2px; }
   .event { font: 700 26px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #F2F4F8; }
@@ -24,7 +24,7 @@
 </g><path d="M48 168H1152" stroke="#1A2133" stroke-width="2"/><g class="r2">
   <text class="date" x="48" y="212"></text>
   <text class="event" x="210" y="200">M-Indicator AI Hackathon</text>
-  <text class="proj" x="210" y="226">M-Indicator 2.0: Mumbai trains, metro and buses in one app</text>
+  <text class="proj" x="210" y="226">M-Indicator 2.0: a mobile-first redesign for Mumbai commuters</text>
   <rect x="969" y="185" width="182" height="38" rx="19" fill="none" stroke="#6366F1" stroke-width="2"/><text class="chip" x="1060" y="210" text-anchor="middle" style="fill:#6366F1">TOP 10</text>
 </g><path d="M48 240H1152" stroke="#1A2133" stroke-width="2"/><g class="r3">
   <text class="date" x="48" y="284">JUL 2026</text>

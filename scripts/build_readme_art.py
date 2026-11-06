@@ -144,7 +144,7 @@ TROPHIES = [
     # (date, event, project line, result, style)
     ("MAR 2026", "Lovable × Anthropic Buildathon", "CareProof: verified credit for unpaid caregiving", "WINNER", "fill"),
     ("SEP 2026", "Monad Blitz Mumbai V4", "NO SUS Canary: leak tracing with Solana receipts", "2ND PLACE", "outline"),
-    ("", "M-Indicator AI Hackathon", "M-Indicator 2.0: Mumbai trains, metro and buses in one app", "TOP 10", "outline"),
+    ("", "M-Indicator AI Hackathon", "M-Indicator 2.0: a mobile-first redesign for Mumbai commuters", "TOP 10", "outline"),
     ("JUL 2026", "Automation Expo", "Niva: smart insole with explainable gait analytics", "SHOWCASED", "muted"),
     ("2026", "India Innovates", "New Delhi", "PRESENTED", "muted"),
 ]

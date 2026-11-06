@@ -45,9 +45,9 @@ Most of what I build has a board in it: an ESP32 insole that scores gait with ru
 | **[NO SUS Canary](https://github.com/https-shubhamsahu/nosus-canary)** | Every reader gets their own copy, and every seal and open is a Solana transaction. 2nd at Monad Blitz Mumbai V4 | `Dart` `Solana` |
 | **[POISONKEY](https://github.com/https-shubhamsahu/POISONKEY)** | Access credentials that slash the holder's bond if they leak, on Stellar + Soroban | `TypeScript` `Soroban` |
 | **[CareProof](https://github.com/https-shubhamsahu/care-proof)** | Turns unpaid caregiving into a CareScore and a portfolio that lenders and employers can use. Won the Lovable × Anthropic Buildathon | `TypeScript` |
-| **[crypt.ml](https://github.com/https-shubhamsahu/crypt.ml)** | Local-first anti-money-laundering: five agents, XGBoost with SHAP, transaction graph analysis | `Python` `XGBoost` |
+| **[crypt.ml](https://github.com/https-shubhamsahu/crypt.ml)** | Local-first anti-money-laundering for UPI transfers: rules, note text, XGBoost and a money-flow graph score each payment, a fifth agent drafts the report | `Python` `XGBoost` |
 | **[Lynk](https://github.com/https-shubhamsahu/lynk)** | Finds grants and programs, checks whether you can actually apply, then drafts from verified facts | `Python` |
-| **[M-Indicator 2.0](https://github.com/https-shubhamsahu/M-indicator-2.0)** | Mumbai trains, metro and buses in one mobile-first web app. Top 10 at the M-Indicator AI Hackathon | `HTML` `JavaScript` |
+| **[M-Indicator 2.0](https://github.com/https-shubhamsahu/M-indicator-2.0)** | Mobile-first redesign of Mumbai's m-Indicator site, plus a 2.0 concept for crowd per coach and delay risk. Top 10 at the M-Indicator AI Hackathon | `HTML` `JavaScript` |
 
 <details>
 <summary><b>Reserve bench</b></summary>
