@@ -25,10 +25,10 @@ Most of what I build has a board in it: an ESP32 insole that scores gait with ru
 
 ## Building now: NO SUS
 
-**[NO SUS](https://nosus.foo)**: your files on every screen. Send them so they can't leak: one open, watermarked links, or traceable copies.
+**[NO SUS](https://nosus.foo)**: notes and files that open once. Three ways to send: one open, watermarked links, or traceable copies. Live on Google Play.
 
 [![nosus.foo](https://img.shields.io/badge/nosus.foo-0F172A?style=for-the-badge&logoColor=6366F1)](https://nosus.foo)
-[![Get the app](https://img.shields.io/badge/Get_the_app-0F172A?style=for-the-badge&logo=android&logoColor=6366F1)](https://github.com/https-shubhamsahu/nosus-app)
+[![Get the app](https://img.shields.io/badge/Get_the_app-0F172A?style=for-the-badge&logo=android&logoColor=6366F1)](https://play.google.com/store/apps/details?id=foo.nosus.app)
 
 ## Match record
 
